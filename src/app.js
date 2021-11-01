@@ -9,14 +9,14 @@ dolarDun='9.20'
     let dolarDun = 9.10
 }
 
- console.log(dolarDun)
+console.log(dolarDun)
 
- const euroDun =11.2
+const euroDun =11.2
  //euroDun =11 ----->HATA
 
- console.log(euroDun)
+console.log(euroDun)
 //array
- let konutKredileri = ['konut kredisi','emlak konut kredisi','kamu konut kredisi','özel konut kredileri']
+let konutKredileri = ['konut kredisi','emlak konut kredisi','kamu konut kredisi','özel konut kredileri']
 
 console.log("<ul>")
 for(let i = 0;i<konutKredileri.length;i++){
@@ -24,6 +24,6 @@ for(let i = 0;i<konutKredileri.length;i++){
 }
 console.log("</ul>")
 
- 
+
 
 console.log(konutKredileri)
